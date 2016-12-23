@@ -24,6 +24,6 @@ Files in the project:
 
 Comments: This was my first programming project for my intro level computer science class.
 
-Contect:  aaiznahmed@gmail.com or aaiza2@umbc.edu
+Contact:  aaiznahmed@gmail.com or aaiza2@umbc.edu
 LinkedIn: https://www.linkedin.com/in/aaizahmed
-GitHub:   https://github.com/AaizAhmed 
+GitHub:   https://github.com/AaizAhmed
